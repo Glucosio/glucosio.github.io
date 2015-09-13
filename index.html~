@@ -33,7 +33,7 @@
           <br>
                 <img class="center-align" src="https://cdn.brandisty.com/img?id=55e57fc8c8ff90804b000023&format=png&w=300&h=214">
           <br><br><br>
-        <a class="waves-effect pink accent-3 center-allign waves-light btn-large tooltipped" data-position="bottom" data-delay="50" data-tooltip="WARNING: Glucosio Daily is an highly unstable build. For development and debugging purposes only." href="https://github.com/Glucosio/glucosio.github.io/blob/master/app-debug.apk?raw=true"><i class="material-icons left"></i>DOWNLOAD DAILY</a>
+        <a class="waves-effect pink accent-3 center-allign waves-light btn-large tooltipped" data-position="bottom" data-delay="50" data-tooltip="WARNING: Glucosio Daily is an highly unstable build. For development and debugging purposes only."><i class="material-icons left" href="https://github.com/Glucosio/glucosio.github.io/blob/master/app-debug.apk?raw=true"></i>DOWNLOAD DAILY</a>
       </div>
 
 
